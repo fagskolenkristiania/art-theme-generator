@@ -9,7 +9,7 @@ let themeList = [
 	"Trange gater",
 	"Gaudies byggninger",
 	"Svensk lungemos",
-	"Jeg føller meg ikke så hot i dag",
+	"Jeg føller meg super så hot i dag",
 	"Endelig sommer igjen",
 	"Er vi snart fremme?",
 	"Dette er bare så meg",
@@ -26,7 +26,7 @@ let themeList = [
 	"For en bart!",
 	"Peis & kose-rock",
 	"Forskerne har funnet ut en hel del",
-	"Hun kaster et nytt blikk på skulpturen",
+	"Et nytt blikk på skulpturen",
 	"Jeg reiser mye",
 	"Å få den spesielle følelsen",
 	"Hun slo opp med meg, igjen",
@@ -55,7 +55,11 @@ let themeList = [
 	"Fra land til land",
 	"Si det med blomster eller med ord",
 	"Hvor ofte sa du?",
-	"Mennesker passer godt sammen"
+	"Mennesker passer godt sammen",
+	"Atomer i kosmos",
+	"Energi & partikler",
+	"Elektronene beveger seg hurtig",
+	"Glade hormoner"
 ];
 
 console.log(`There are currently, ${themeList.length} sentences in the system.`);
