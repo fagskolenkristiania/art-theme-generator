@@ -18,7 +18,7 @@ let themeList = [
 	"Jeg elsker ostepop",
 	"En dag på IKEA",
 	"I natt sover vi i skogen",
-	"Hva var 2+5 igjen",
+	"Hva var 2+5 igjen?",
 	"Eg trur eg har déjà vu",
 	"Nå henger månen lavt øve' fjorden",
 	"Jeg trur jeg blir gal",
@@ -38,7 +38,14 @@ let themeList = [
 	"Klarsynt healer og medium",
 	"Sterk utenpå, sterk inni",
 	"Slik former du kroppen",
-	"Perfekt for deg som vil spare penger"
+	"Fordi jeg altid har elsket deg",
+	"Perfekt for deg som vil spare penger",
+	"Oi, så fin den var!",
+	"Så hyggelig å se deg igjen",
+	"Norske barnehager",
+	"Eg elskar å vera den rare tanta",
+	"Verktøy eller våpen",
+	"Jeg vil prate om oss"
 ];
 
 console.log(`There are currently, ${themeList.length} sentences in the system.`);
