@@ -46,7 +46,16 @@ let themeList = [
 	"Eg elskar å vera den rare tanta",
 	"Verktøy eller våpen",
 	"Jeg vil prate om oss",
-	"For mange filtre"
+	"For mange filtre",
+	"Den nye kjæresten",
+	"Nå er det beste tidspunktet",
+	"God middag med musikk",
+	"Å få blomster",
+	"En selvbakt kake i hjerteform",
+	"Fra land til land",
+	"Si det med blomster eller med ord",
+	"Hvor ofte sa du?",
+	"Mennesker passer godt sammen"
 ];
 
 console.log(`There are currently, ${themeList.length} sentences in the system.`);
