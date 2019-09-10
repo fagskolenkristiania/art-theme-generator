@@ -1,2 +1,2 @@
-# font-theme-generator
-online font theme generator
+# Font Theme Generator
+Online font theme generator
