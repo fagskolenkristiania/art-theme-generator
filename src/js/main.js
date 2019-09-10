@@ -45,7 +45,8 @@ let themeList = [
 	"Norske barnehager",
 	"Eg elskar å vera den rare tanta",
 	"Verktøy eller våpen",
-	"Jeg vil prate om oss"
+	"Jeg vil prate om oss",
+	"For mange filtre"
 ];
 
 console.log(`There are currently, ${themeList.length} sentences in the system.`);
